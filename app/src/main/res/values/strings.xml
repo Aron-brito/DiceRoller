@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_label">Roll</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="count">Count up</string>
+    <string name="reset_button">reset</string>
+</resources>
